@@ -1,0 +1,17 @@
+body {
+    padding: 100px;
+}
+
+.submit-area {
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.submit-area input {
+    margin: 20px 0;
+}
+
+#transection-area {
+    display: none;
+}
